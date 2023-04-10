@@ -39,11 +39,14 @@
 .sidebarList{
     list-style: none;
     margin-bottom: 30px;
+  
 }
 .sidebarListItems{
     display:inline-block;
+    
     width:50%;
     margin-top: 15px;
+   
     cursor: pointer;
 }
 .sidebarSocial{
